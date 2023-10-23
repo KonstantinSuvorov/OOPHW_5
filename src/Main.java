@@ -13,12 +13,12 @@ public class Main {
     public static void main(String[] args) {
         Teacher teacherAleks = new Teacher(" Александр ", " Васильев ", 34, " Математика ", 2);
 
-        Student studentNik = new Student("Николай", "Черенковский", 22, 1);
-        Student studentSlava = new Student("Слава", "Радимова", 23, 2);
-        Student studentSergey = new Student("Сергей", "Радимов", 24, 3);
-        Student studentLion = new Student("Лев", "Яшинка", 21, 4);
-        Student studentKatya = new Student("Катя", "Лелякова", 22, 5);
-        Student studentAlex = new Student("Александр", "Черенковский", 22, 6);
+        Student studentNik = new Student("Николай", "Черенковский", 22, 11);
+        Student studentSlava = new Student("Слава", "Радимова", 23, 12);
+        Student studentSergey = new Student("Сергей", "Радимов", 24, 13);
+        Student studentLion = new Student("Лев", "Яшинка", 21, 14);
+        Student studentKatya = new Student("Катя", "Лелякова", 22, 15);
+        Student studentAlex = new Student("Александр", "Черенковский", 22, 16);
 
 
         List<Student> studentList = new ArrayList<>();
